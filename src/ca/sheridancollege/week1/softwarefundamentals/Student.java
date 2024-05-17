@@ -13,6 +13,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author dancye May 7, 2018
  * @author Mihir Chaudhary
  * This is change 
+ * This is change in Github
  */
 public class Student 
 {

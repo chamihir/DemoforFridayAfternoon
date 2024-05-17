@@ -7,6 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author Mihir Chaudhary
+ * Yeah Parttime file arrives.
  */
 public class PartTimeStudent {
     
